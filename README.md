@@ -1,9 +1,9 @@
 # Trabajo Final AED (Algoritmos y Estructuras de Datos FRC UTN)
 
 autores:
-Costamagna María Paz
-Melone Pablo Antonio
-Olivero Aimareti Alexis
+Costamagna María Paz;
+Melone Pablo Antonio;
+Olivero Aimareti Alexis;
 Torres Aylen
 
 
