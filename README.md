@@ -1,5 +1,12 @@
 # Trabajo Final AED (Algoritmos y Estructuras de Datos FRC UTN)
 
+autores:
+Costamagna María Paz
+Melone Pablo Antonio
+Olivero Aimareti Alexis
+Torres Aylen
+
+
 Enunciado y Consignas.
 
 Una tienda de libros electrónicos nos solicita ayuda para desarrollar un sistema de gestión de sus
